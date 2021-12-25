@@ -11,7 +11,7 @@ public:
         else
             continue;
         mark[index] = true;
-    }
+    } 
     for (int i = 0; i <= 25; i++)
         if (mark[i] == false)
             return (false);
