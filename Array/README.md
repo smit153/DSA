@@ -46,5 +46,3 @@
 - [x] 38. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 - [x] 39. [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [x] 40. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
-
-Questions from #41 are from [code studio](https://www.codingninjas.com/codestudio) and link of each question is in first comment  
