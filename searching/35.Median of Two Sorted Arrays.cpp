@@ -27,7 +27,7 @@ public:
     }
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         double ans;
-        ans=mediann(nums1,nums2);
+        ans=mediann(nums1,nums2); 
         return ans;   
     }
 };
