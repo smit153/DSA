@@ -9,7 +9,7 @@ public:
             mid = lo + (hi - lo) / 2;
             
             if (num[mid] > num[hi]) {
-                lo = mid + 1;
+                lo = mid + 1; 
             }
             else if (num[mid] < num[hi]) {
                 hi = mid;
