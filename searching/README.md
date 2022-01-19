@@ -43,5 +43,4 @@
 - [x] 35. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [ ] 36. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - [ ] 37. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
-- [ ] 38. [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-- [ ] 39. [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+- [ ] 38. [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
