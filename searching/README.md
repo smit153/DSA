@@ -36,15 +36,11 @@
 - [x] 31. [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [x] 32. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [x] 33. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-- [ ] 34. [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
 
-- [x] 35. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [x] 36. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [ ] 37. [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
-- [ ] 38. [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [ ] 39. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [ ] 40. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
-- [ ] 41. [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-- [ ] 42. [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+- [x] 34. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [x] 35. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [ ] 36. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [ ] 37. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [ ] 38. [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
