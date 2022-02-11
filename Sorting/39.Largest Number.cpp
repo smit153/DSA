@@ -8,7 +8,6 @@ class Solution
 public:
     string largestNumber(vector<int> &nums)
     {
-
         vector<string> container;
 
         for (int i : nums)
